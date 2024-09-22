@@ -1,7 +1,7 @@
 ```
 > bay
 ```
-![justBay](https://github.com/user-attachments/assets/0f7dc47b-c682-4b05-9e70-24a8b939a7c3)
+![justBay](https://github.com/user-attachments/assets/bca2f6a9-dfd6-4706-9f29-5a5cc3acecd7)
 ```
 Uptime: 19 years
 Pronouns: She/Her
