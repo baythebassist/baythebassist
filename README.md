@@ -37,7 +37,6 @@ Likes: Rock🤟, TRPG🎲, SF🛸, Problem Solving✅, and LILPA🖤
 <img src="https://img.shields.io/badge/PyCharm-2cd594?style=for-the-badge&logo=PyCharm&logoColor=fbf84b"/>
 <img src="https://img.shields.io/badge/Rider-c90f5e?style=for-the-badge&logo=Rider&logoColor=fbcd11"/>
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white"/>
 </p>
 
 <p> <h5> 🎨 Design Tools </h5>
